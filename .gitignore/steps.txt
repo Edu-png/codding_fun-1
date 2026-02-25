@@ -1,3 +1,0 @@
-
-cd C:\Users\dudou\OneDrive\Desktop\PROJETOS\codding_for_fun\Job fit AI
-.\funcoding\Scripts\Activate.ps1

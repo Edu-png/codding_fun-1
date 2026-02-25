@@ -1,0 +1,18 @@
+# Virtual environment
+funcoding/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# NLTK data (se existir local)
+nltk_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# text
+steps.txt
